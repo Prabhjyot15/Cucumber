@@ -15,5 +15,5 @@ Feature: Check Google Homepage
 
     Examples: 
       | username  | password | status  |
-      | prabhjyotkaur61@yahoo.in |     prabhjyot@15 | success |
+      | prabhjyotkaur61@yahoo.in |     | success |
       
